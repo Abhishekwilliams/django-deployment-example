@@ -23,7 +23,7 @@ TEMPLATE_DIR=Path(BASE_DIR,'templates')
 SECRET_KEY = 'na9!2k-uo$ioih*-&63h)z5eklcwzsse+)*e7g(@2b+r*j_9)p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['http://abhi10will.pythonanywhere.com']
 
